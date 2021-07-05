@@ -1,0 +1,23 @@
+{
+  "name": "l-node-1",
+  "version": "1.0.0",
+  "description": "Node 1.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test",
+    "Start": "app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmurdoc90/L-Node-1.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Robert-Murdoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmurdoc90/L-Node-1/issues"
+  },
+  "homepage": "https://github.com/rmurdoc90/L-Node-1#readme"
+}

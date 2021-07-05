@@ -1,8 +1,9 @@
-//App Index.js
+// App Index.js
 
 // Dependencies
 const http = require('http');
 
+// Variables
 const hostname = '127.0.0.1'
 const port = 3000;
 
